@@ -6,6 +6,8 @@ int main() {
 
     typedef std::string string;
     //so now instead of std::string we can just use the string keyword.
+   
+    //Alias = nickname
 
     string name = "Krish";
 
